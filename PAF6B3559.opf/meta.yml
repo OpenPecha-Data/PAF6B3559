@@ -1,0 +1,56 @@
+id: PAF6B3559
+initial_creation_type: input
+source_metadata:
+  title: Damngak Dzö Series
+  language: fr
+  description: 'Texts belonging to (and related to) the Damgnak Dzö (gdams ngag mdzod)
+    or Treasury of Instructions, one of the five treasuries of Jamgön Kongtrul Lodrö
+    Thayé (1813–1899):'
+  volume:
+    085d668910db42519207c49cd1e19107:
+      title: The Bodhisattva’s Garland of Jewels
+      parent: Kadam
+    2c60a1790d064f508a7fed876c27dab4:
+      title: The Lamp for the Path to Enlightenment
+      parent: Kadam
+    e94663efd33549e9b14663607ff1a5ce:
+      title: Seven Points of Training the Mind According to the Great Vehicle
+      parent: Kadam
+    385cc1cc853d4f44b1038302de9290f4:
+      title: Three Principal Aspects of the Path
+      parent: Kadam
+    6da9d6781d9f445c876cd98323af9ea8:
+      title: Supplement to the Omniscient Ngorchen Kunga Zangpo’s Prayer to the Lineage
+        of Parting from the Four Attachments
+      parent: Sakya Lamdré
+    9509e871fa344a6aaa487275c9eacaa4:
+      title: Parting from the Four Attachments
+      parent: Sakya Lamdré
+    f52756de26f14a45b6dcbc4d07553138:
+      title: Prayer to the Lineage of Parting from the Four Attachments
+      parent: Sakya Lamdré
+    102c354840814b35a0a8e347cd0ac014:
+      title: Nubpa Rigdzin Drak's Parting from the Four Attachments
+      parent: Sakya Lamdré
+    975cce3b95a14815b0be17f26d37c971:
+      title: The Instructions on Parting from the Four Attachments
+      parent: Sakya Lamdré
+    684dee560f6f4fd686440e523960d6aa:
+      title: Sakya Paṇḍita’s Instruction on Parting from the Four Attachments
+      parent: Sakya Lamdré
+    0416db516fcf408bb85ea293c3528f0b:
+      title: 'A Casket of Sacred Dharma: Stages of Meditation on Dependent Arising'
+      parent: Marpa Kagyü
+    34c17446c10e48c5adee7e0d478346c6:
+      title: The Ganges Mahāmudrā Instructions
+      parent: Marpa Kagyü
+    478af24620734510a8c31ecad4fae3b1:
+      title: 'The Sweet-Sounding Song that Fulfils All Aims: A Prayer to Noble Tārā
+        Combined with Her Root Mantra'
+      parent: Miscellaneous
+    98fd70d4c70f4d9fa700a5b475fe49af:
+      title: Vajra Speech of the Prayer to Noble Avalokiteśvara from the Great Siddha
+        Thangtong Gyalpo's Lifetime as Bhikṣu Padma Karpo
+      parent: Miscellaneous
+created_at: '2022-03-01T03:21:42.540491'
+last_modified_at: '2022-03-01T03:21:42.540493'
